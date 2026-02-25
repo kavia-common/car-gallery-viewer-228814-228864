@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/car-gallery-viewer-228814-228864/car_gallery_frontend"
+}
